@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Jaine, graduada em sistemas de informação, trabalho há 8 anos como FullStack developer / Analista de sistemas, utilizando principalmente PHP, YII , HTML , CSS e JS.
+Meu nome é Jaine, graduada em sistemas de informação, trabalho há mais de 8 anos como FullStack developer / Analista de sistemas, utilizando principalmente PHP, YII , HTML , CSS e JS.
 
 ## 📊 Stats
 
