@@ -2,6 +2,9 @@
 
 Meu nome é Jaine, graduada em sistemas de informação, trabalho há mais de 8 anos como FullStack developer / Analista de sistemas, utilizando principalmente PHP, YII , HTML , CSS e JS.
 
+Atualmente estudando:
+Laravel, Docker, TDD. 
+
 ## 📊 Stats
 
 <div style="display: flex; justify-content: space-between;">
