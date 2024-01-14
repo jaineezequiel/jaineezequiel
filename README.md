@@ -12,7 +12,7 @@ Laravel, Docker, TDD.
     <img src="https://github-readme-stats.vercel.app/api?username=jaineezequiel&show_icons=true&theme=dracula" height="180em">
 </div>
 <div style="display: flex; justify-content:">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaineezequiel&custom_title=Liv's%20github%20activity%20graph&theme=dracula" height="180em">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaineezequiel&custom_title=Jaine's%20github%20activity%20graph&theme=dracula" height="180em">
 </div>
 
 📫 Onde me encontrar @
