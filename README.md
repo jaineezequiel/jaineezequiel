@@ -2,7 +2,7 @@
 
 <ul>
     <li>Meu nome é Jaine</li>
-    <li>Graduada em Sistemas de Informação</li>
+    <li>Graduada em Sistemas de Informação (2010/2013)</li>
     <li>9+ anos como FullStack Developer / Analista de Sistemas</li>
     <li>Principais tecnologias: 
         <code><img height="30" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
