@@ -4,15 +4,12 @@
     <li>Meu nome é Jaine</li>
     <li>Graduada em Sistemas de Informação [2010-2013]</li>
     <li>9+ anos como FullStack Developer / Analista de Sistemas</li>
-    <li>Principais tecnologias: 
-        <code><img height="30" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-        <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-        <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-        <code><img height="30" alt="github" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
+    <li>Principais tecnologias: <br/>
+        <img src="https://skillicons.dev/icons?i=php,js,mysql,git,)](https://skillicons.dev)"/>
     </li>
     <li>
-        Atualmente estudando:
-        <code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/laravel/laravel.png"></code> Laravel 10
+        Atualmente estudando:<br/>
+        <img src="https://skillicons.dev/icons?i=laravel,)](https://skillicons.dev)"/>
     </li>
 </ul>
 
