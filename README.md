@@ -17,6 +17,8 @@ Laravel, Docker, TDD.
 
 📫 Onde me encontrar @
 
-👩💻 <a href="https://www.linkedin.com/in/jaine-ezequiel-a5a5a339/">LinkedIn</a>
+ <a href="https://www.linkedin.com/in/jaine-ezequiel-a5a5a339/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-🐣 <a href="https://twitter.com/Jaineezequiel">Twitter</a>
+<a href="https://twitter.com/Jaineezequiel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+<a href="https://cursos.alura.com.br/user/jaineezequiel">Alura</a>
