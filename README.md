@@ -7,7 +7,7 @@
     <li>Meu nome é Jaine</li>
     <li>Graduada em Sistemas de Informação [2010-2013]</li>
     <li>9+ anos como FullStack Developer / Analista de Sistemas</li><br/>
-    <li>Principais tecnologias: <br/><br/>
+    <li> Possuo domínio em: <br/><br/>
         <img src="https://skillicons.dev/icons?i=php,js,mysql,git,)](https://skillicons.dev)"/><br/><br/>
     </li>
     <li>
