@@ -12,7 +12,7 @@
     </li>
     <li>
         Atualmente estudando:<br/><br/>
-        <img src="https://skillicons.dev/icons?i=laravel,aws,docker,react,nodejs,)](https://skillicons.dev)"/>
+        <img src="https://skillicons.dev/icons?i=laravel,aws,docker,react,nodejs,vuejs,)](https://skillicons.dev)"/>
     </li>
 </ul>
 
